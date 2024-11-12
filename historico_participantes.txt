@@ -1,0 +1,20 @@
+vasti,Ejercicio de Canto,2024-11-01 00:00:00
+Pepe,Reflexión,2024-11-01 00:00:00
+Lalo,Ejercicio Bíblico,2024-11-01 00:00:00
+emanuel,Ejercicio de Canto,2024-11-01 00:00:00
+pepe,Reflexión,2024-11-01 00:00:00
+Judit,Ejercicio Bíblico,2024-11-01 00:00:00
+lalo,Ejercicio de Canto,2024-11-01 20:01:03.985386
+timoteo,Reflexión,2024-11-01 20:01:03.985793
+Meny,Dirigir,2024-11-01 20:01:03.992085
+Bere,Dinámica,2024-11-01 20:01:03.993046
+Eusebio,Bando de Oración,2024-11-01 20:01:03.993785
+Karla,Matutina,2024-11-01 20:01:03.994560
+Emanuel,Ejercicio Bíblico,2024-11-01 20:01:03.995393
+jose,Ejercicio de Canto,2024-11-02 14:46:09.301532
+meny,Reflexión,2024-11-02 14:46:09.308782
+Lili,Dirigir,2024-11-02 14:46:09.309371
+Carlos,Dinámica,2024-11-02 14:46:09.309876
+Hugo,Bando de Oración,2024-11-02 14:46:09.310353
+Cynthia,Matutina,2024-11-02 14:46:09.310922
+Edna,Ejercicio Bíblico,2024-11-02 14:46:09.311447
